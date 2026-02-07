@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:c9d1d9&height=200&section=header&text=DaemonScripts&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Premium%20FiveM%20Scripts%20%7C%20Chicago%2C%20IL&descSize=18&descAlignY=55&descColor=8b949e"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+of+FiveM+roleplay;Custom+scripts+%7C+Unique+experiences;Quality+code+for+quality+servers" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+of+roleplay;Custom+scripts+%7C+Unique+experiences;Quality+code+for+quality+servers" alt="Typing SVG" /></a>
 
 <br/>
 
