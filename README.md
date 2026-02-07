@@ -58,16 +58,11 @@ Our `dps-` collection is free and open source — built for the community, by th
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contribution Activity
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DaemonAlex&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=DaemonAlex&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaemonAlex&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaemonAlex&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
 
 <br/>
 
