@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">DaemonScripts</title>
+  <desc id="d">FiveM scripts from Chicago, IL. Building the future of roleplay.</desc>
+  <defs>
+    <!-- delperrosands.com hero: navy fading down, orange wash from the left -->
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a111f"/>
+      <stop offset="1" stop-color="#0f1a2e"/>
+    </linearGradient>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a45" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#ff7a45" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="panel"><rect x="1" y="1" width="1278" height="318" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#panel)">
+    <rect width="1280" height="320" fill="url(#ground)"/>
+    <rect width="1280" height="320" fill="url(#wash)"/>
+    <!-- The DPS speed lines, large and faint, running off the right edge -->
+    <g transform="skewX(-16)" fill="#ffffff" opacity="0.05">
+      <rect x="1080" y="70" width="420" height="34" rx="17"/>
+      <rect x="980" y="143" width="520" height="34" rx="17"/>
+      <rect x="1080" y="216" width="420" height="34" rx="17"/>
+    </g>
+  </g>
+
+  <!-- Kit panel edge: 2px white at 90% -->
+  <rect x="1" y="1" width="1278" height="318" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2"/>
+
+  <!-- Speed lines beside the wordmark, as in the DPS logo -->
+  <g transform="translate(64 0) skewX(-16)" fill="#ffffff">
+    <rect x="70" y="128" width="46" height="8" rx="4"/>
+    <rect x="50" y="150" width="66" height="8" rx="4"/>
+    <rect x="70" y="172" width="46" height="8" rx="4"/>
+  </g>
+
+  <g font-family="'Roboto Condensed','Arial Narrow','Helvetica Neue',Arial,sans-serif" font-stretch="condensed" font-weight="700">
+    <text x="200" y="104" fill="#ff7a45" font-size="20" letter-spacing="2.4">FIVEM SCRIPTS · CHICAGO, IL</text>
+    <text x="196" y="190" font-size="92" letter-spacing="1">
+      <tspan fill="#ffffff">DAEMON</tspan><tspan fill="#ff7a45">SCRIPTS</tspan>
+    </text>
+    <text x="200" y="236" fill="#ffffff" fill-opacity="0.85" font-family="Roboto,Arial,sans-serif" font-stretch="normal" font-weight="400" font-size="24">Building the future of roleplay. Custom scripts, unique experiences.</text>
+  </g>
+
+  <!-- daemonscripts.com as a kit plate -->
+  <g transform="translate(200 258)">
+    <rect width="236" height="34" rx="6" fill="#f4f1ea" stroke="#ffffff" stroke-width="2"/>
+    <text x="118" y="23" text-anchor="middle" fill="#141a28" font-family="'Roboto Mono',Consolas,'Courier New',monospace" font-weight="600" font-size="16" letter-spacing="1.9">DAEMONSCRIPTS.COM</text>
+  </g>
+</svg>
