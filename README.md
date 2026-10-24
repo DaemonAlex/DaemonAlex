@@ -1,74 +1,74 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:c9d1d9&height=200&section=header&text=DaemonScripts&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Premium%20FiveM%20Scripts%20%7C%20Chicago%2C%20IL&descSize=18&descAlignY=55&descColor=8b949e"/>
+<!-- Header: the DelPerroSands kit B look (navy, white edge, brand orange #ff7a45) -->
+<img width="100%" src="assets/banner.svg" alt="DaemonScripts: FiveM scripts from Chicago, IL. Building the future of roleplay."/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+future+of+roleplay;Custom+scripts+%7C+Unique+experiences;Quality+code+for+quality+servers" alt="Typing SVG" /></a>
+<!-- Typing line in the brand orange -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=22&duration=3000&pause=1000&color=FF7A45&center=true&vCenter=true&repeat=true&width=600&height=50&lines=BUILDING+THE+FUTURE+OF+ROLEPLAY;CUSTOM+SCRIPTS+%C2%B7+UNIQUE+EXPERIENCES;QUALITY+CODE+FOR+QUALITY+SERVERS" alt="Building the future of roleplay. Custom scripts, unique experiences. Quality code for quality servers."/></a>
 
-<br/>
+<!-- The one action in orange; the rest calm navy -->
+[![daemonscripts.com](https://img.shields.io/badge/daemonscripts.com-ff7a45?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ff7a45)](https://daemonscripts.com)
+[![DelPerroSands](https://img.shields.io/badge/delperrosands.com-141a28?style=for-the-badge&logo=rockstargames&logoColor=ff7a45)](https://delperrosands.com)
+[![GitHub](https://img.shields.io/badge/DaemonAlex-141a28?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DaemonAlex)
 
-<!-- Social Badges -->
-[![Website](https://img.shields.io/badge/daemonscripts.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://daemonscripts.com)
-[![GitHub](https://img.shields.io/badge/DaemonAlex-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/DaemonAlex)
+<br/><br/>
 
-<br/>
-
----
-
-### 🔥 What We Do
+<img width="100%" src="assets/h-what-we-do.svg" alt="What we do"/>
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-**FiveM Script Development**
+**FIVEM SCRIPT DEVELOPMENT**
 
-We build premium, optimized scripts for FiveM servers. From gameplay mechanics to immersive roleplay features — if you can imagine it, we can build it.
+We build premium, optimized scripts for FiveM servers. From gameplay mechanics to immersive roleplay features: if you can imagine it, we can build it.
 
 </td>
 <td align="center" width="50%">
 
-**Open Source DPS Scripts**
+**OPEN SOURCE DPS SCRIPTS**
 
-Our `dps-` collection is free and open source — built for the community, by the community. Quality scripts that just work.
+Our `dps-` collection is free and open source, built for the community, by the community. Quality scripts that just work.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img width="100%" src="assets/h-tech-stack.svg" alt="Tech stack"/>
 
 <br/>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-141a28?style=for-the-badge&logo=cplusplus&logoColor=ff7a45)
+![Lua](https://img.shields.io/badge/Lua-141a28?style=for-the-badge&logo=lua&logoColor=ff7a45)
+![JavaScript](https://img.shields.io/badge/JavaScript-141a28?style=for-the-badge&logo=javascript&logoColor=ff7a45)
+![TypeScript](https://img.shields.io/badge/TypeScript-141a28?style=for-the-badge&logo=typescript&logoColor=ff7a45)
+![React](https://img.shields.io/badge/React-141a28?style=for-the-badge&logo=react&logoColor=ff7a45)
+![Vue.js](https://img.shields.io/badge/Vue.js-141a28?style=for-the-badge&logo=vue.js&logoColor=ff7a45)
+![HTML5](https://img.shields.io/badge/HTML5-141a28?style=for-the-badge&logo=html5&logoColor=ff7a45)
+![CSS3](https://img.shields.io/badge/CSS3-141a28?style=for-the-badge&logo=css3&logoColor=ff7a45)
+![MySQL](https://img.shields.io/badge/MySQL-141a28?style=for-the-badge&logo=mysql&logoColor=ff7a45)
+![Node.js](https://img.shields.io/badge/Node.js-141a28?style=for-the-badge&logo=node.js&logoColor=ff7a45)
+
+<br/><br/>
+
+<img width="100%" src="assets/h-activity.svg" alt="Contribution activity"/>
 
 <br/>
 
----
+<!-- The old activity-graph service now answers 402 (payment required); streak stats takes kit colours. -->
+<img width="100%" src="https://streak-stats.demolab.com?user=DaemonAlex&background=0F1A2E&border=FFFFFFE6&stroke=FFFFFF1F&ring=FF7A45&fire=FF7A45&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A45&sideLabels=FFFFFFA6&dates=FFFFFFA6&border_radius=14&card_width=880" alt="Contribution streak: total contributions, current streak and longest streak"/>
 
-### 📊 Contribution Activity
+<br/><br/>
+
+<img width="100%" src="assets/h-dps-scripts.svg" alt="Featured DPS scripts"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaemonAlex&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+<a href="https://delperrosands.com"><img src="assets/dps-logo.svg" height="64" alt="DPS: DelPerroSands"/></a>
 
 <br/>
-
----
-
-### 🎮 Featured DPS Scripts
 
 | Script | Description |
 |--------|-------------|
@@ -81,15 +81,10 @@ Our `dps-` collection is free and open source — built for the community, by th
 
 <br/>
 
----
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=DaemonAlex&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=DaemonAlex&style=for-the-badge&color=ff7a45&labelColor=141a28&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:c9d1d9&height=120&section=footer"/>
+<img width="100%" src="assets/footer.svg" alt="DaemonScripts, home of the DelPerroSands scripts"/>
